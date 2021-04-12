@@ -1,1 +1,1 @@
-This PR depends on PR from operator project
+This PR depends on PR from operator project.
