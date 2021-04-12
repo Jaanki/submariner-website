@@ -1,1 +1,2 @@
 This PR depends on PR from operator project.
+New line
